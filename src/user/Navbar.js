@@ -32,7 +32,7 @@ export default function Navbar() {
                         <a href="https://www.facebook.com/share/15q72mxf2j/" class="facebook text-light"><i class="fa-brands fa-facebook"></i></a>
                         <a href="https://www.instagram.com/cricketer_dilshad?igsh=MTF3Ynl2bHkweWMxag==" class="instagram text-light"><i class="fa-brands fa-instagram"></i></a>
                         <a href="www.linkedin.com/in/mohammad-dilshad-2b1706267" class="google-plus"><i class="fa-brands fa-linkedin"></i></a>
-                        <a href="#" class="linkedin"><i class="fa-brands fa-github"></i></a>
+                        <a href="https://github.com/mdilshad78" class="linkedin"><i class="fa-brands fa-github"></i></a>
                     </div>
 
                     <nav id="navmenu" class="navmenu">
