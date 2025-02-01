@@ -1,0 +1,178 @@
+/*--------------------------------------------------------------
+# About Section
+--------------------------------------------------------------*/
+.about h2{
+  font-size: 50px;
+}
+
+.content h2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.about .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.about .content ul strong {
+  margin-right: 10px;
+}
+
+.about .content ul i {
+  font-size: 18px;
+  margin-top: 2px;
+  margin-right: 5px;
+  color: rgb(0, 191, 255);
+  line-height: 0;
+}
+
+@media screen and (min-width: 2000px) {
+  #about {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #about {
+    margin-left: 210px;
+  }
+}
+
+/*--------------------------------------------------------------
+  # Stats Section
+  --------------------------------------------------------------*/
+.stats .stats-item {
+  padding: 30px;
+  width: 100%;
+}
+
+.stats .stats-item i {
+  color: rgb(2, 192, 255);
+  display: block;
+  font-size: 44px;
+  float: left;
+}
+
+.stats .stats-item .purecounter {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 48px;
+  line-height: 40px;
+  display: block;
+  font-weight: 700;
+  margin-left: 60px;
+}
+
+.stats .stats-item p {
+  color: gray;
+  padding: 15px 0 0 0;
+  margin: 0 0 0 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+/*--------------------------------------------------------------
+  # Skills Section
+  --------------------------------------------------------------*/
+.skills h2{
+  font-size: 50px;
+}
+
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+}
+
+.progress-bar1 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+}
+
+.progress-bar2 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 90%;
+}
+
+.progress-bar3 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
+
+.progress-bar4 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar5 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 85%;
+}
+
+.progress-bar6 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar7 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 90%;
+}
+
+.progress-bar8 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
+
+.progress-bar9 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 70%;
+}
+
+.progress-bar10 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar11 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 85%;
+}
+
+.progress-bar12 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
