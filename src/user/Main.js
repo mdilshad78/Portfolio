@@ -24,17 +24,6 @@ export default function Main() {
             <Resume />
             <Portfolio/>
             <Contact/>
-            <div className='main'>
-
-
-
-
-
-
-
-
-
-            </div>
         </>
     )
 }
