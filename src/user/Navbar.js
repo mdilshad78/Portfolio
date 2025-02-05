@@ -1,5 +1,5 @@
 import React from 'react'
-import img from '../images/my-profile-img.jpg'
+import img from '../images/my.jpg'
 import '../Css/header.css'
 import '../js/home.js'
 import { useRef } from 'react'
