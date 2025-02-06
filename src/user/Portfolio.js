@@ -8,7 +8,7 @@ export default function Portfolio() {
     return (
         <div>
             {/* <!-- Portfolio Section --> */}
-            <section id="about" class="portfolio mt-5">
+            <section id="portfolio" class="portfolio mt-5">
                 <div class="container section-title" data-aos="fade-up">
                     <div className="row">
                         <div className="col-lg-1"></div>
