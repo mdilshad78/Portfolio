@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter } from 'react-simple-typewriter'
-import main from '../images/hero-bg.jpg'
+import main from '../images/herobg.jpg'
 import '../Css/home.css'
 
 export default function Home() {
