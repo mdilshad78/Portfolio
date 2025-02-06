@@ -105,3 +105,15 @@
     width: 100%; 
     height: 270px;
 }
+
+@media screen and (min-width: 2000px) {
+    #contact {
+      margin-left: 0px;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    #contact {
+      margin-left: 210px;
+    }
+  }
