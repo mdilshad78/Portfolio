@@ -33,6 +33,32 @@
   line-height: 0;
 }
 
+.html {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(255, 0, 0));
+}
+.css {
+  background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 234, 255));
+}
+.boot {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(0, 255, 42));
+}
+.java {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(255, 153, 0));
+}
+.react {
+  background-image: linear-gradient(to right, rgb(92, 92, 92), rgb(0, 38, 255));
+}
+.next {
+  background-image: linear-gradient(to right, rgb(92, 92, 92), rgb(200, 0, 255));
+}
+
+.bor{
+  border: solid 5px rgb(0, 213, 255);
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+
+
 @media screen and (min-width: 2000px) {
   #about {
     margin-left: 0px;
@@ -53,29 +79,14 @@
   width: 100%;
 }
 
-.stats .stats-item i {
-  color: rgb(2, 192, 255);
-  display: block;
-  font-size: 44px;
-  float: left;
+.stats h2 {
+  font-size: 50px;
 }
 
-.stats .stats-item .purecounter {
-  color: black;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 48px;
-  line-height: 40px;
-  display: block;
-  font-weight: 700;
-  margin-left: 60px;
-}
-
-.stats .stats-item p {
-  color: gray;
-  padding: 15px 0 0 0;
-  margin: 0 0 0 60px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
+.stats-item {
+  background-color: rgb(189, 187, 185);
+  border-radius: 10px;
+  border: solid 5px rgb(255, 213, 0);
 }
 
 /*--------------------------------------------------------------
