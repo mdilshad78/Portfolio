@@ -115,3 +115,14 @@
   .img1{
     height: 285px;
   }
+  @media screen and (min-width: 2000px) {
+    #portfolio {
+      margin-left: 0px;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    #portfolio {
+      margin-left: 210px;
+    }
+  }
