@@ -5,7 +5,7 @@ export default function Contact() {
     return (
         <div>
             {/* <!-- Contact Section --> */}
-            <section id="about" class="contact section mt-5">
+            <section id="contact" class="contact section mt-5">
                 <div class="container section-title" data-aos="fade-up">
                     <div className="row">
                         <div className="col-lg-1"></div>
