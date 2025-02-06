@@ -62,52 +62,49 @@ export default function About() {
             {/* <!-- /About Section --> */}
 
             {/* <!-- Stats Section --> */}
-            {/* <section id="about" class="stats section mt-5">
+     <section id="about" class="stats section mt-5">
+                <div class="container section-title" data-aos="fade-up">
+                    <div className="row">
+                        <div className="col-lg-1"></div>
+                        <div className="col-lg-10">
+                            <h2 className=''>Statistic</h2>
+                        </div>
+                    </div>
+                </div>
                 <div class="container" data-aos="fade-up" data-aos-delay="100">
                     <div class="row">
                         <div className="col-lg-1"></div>
                         <div className="col-lg-11">
                             <div className="row">
-                                <div class="col-lg-3 col-md-6">
-                                    <div class="stats-item">
-                                        <i class="fa-regular fa-face-smile"></i>
-                                        <span class="purecounter">232</span>
-                                        <p><strong>Happy Clients</strong> <span>consequuntur quae</span></p>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="stats-item text-center mt-4">
+                                        <h3 className='fs-2'>Github Project</h3>
+                                        <h4 className='fs-2'>15</h4>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-md-6">
+                                <div class="col-lg-4 col-md-6 text-center mt-4">
                                     <div class="stats-item">
-                                        <i class="fa-solid fa-book"></i>
-                                        <span class="purecounter">521</span>
-                                        <p><strong>Projects</strong> <span>adipisci atque cum quia aut</span></p>
+                                        <h3 className='fs-2'>Github Followers</h3>
+                                        <h4 className='fs-2'>60</h4>
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-md-6">
+                                <div class="col-lg-4 col-md-6 text-center mt-4">
                                     <div class="stats-item">
-                                        <i class="fa-solid fa-headset"></i>
-                                        <span class="purecounter">1453</span>
-                                        <p><strong>Hours Of Support</strong> <span>aut commodi quaerat</span></p>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-3 col-md-6">
-                                    <div class="stats-item">
-                                        <i class="fa-regular fa-user"></i>
-                                        <span class="purecounter">32</span>
-                                        <p><strong>Hard Workers</strong> <span>rerum asperiores dolor</span></p>
+                                        <h3 className='fs-2'>Linkdin Followers</h3>
+                                        <h4 className='fs-2'>199</h4>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section> */}
+            </section>
             {/* <!-- /Stats Section --> */}
 
             {/* <!-- Skills Section --> */}
-            <section id="about" class="skills mt-5">
+              <section id="about" class="skills mt-5">
                 <div class="container section-title " data-aos="fade-up">
                     <div className="row">
                         <div className="col-lg-1"></div>
@@ -123,87 +120,81 @@ export default function About() {
                         <div className="col-lg-1"></div>
                         <div className="col-lg-11">
                             <div className="row">
-                                <div class="col-lg-6">
-                                    <div class="progress">
-                                        <span class="skill"><span>HTML</span> <i class="val">100%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar1"></div>
+                                <div class="col-lg-4 col-md-6 mt-4">
+                                    <div className="col-sm-12 text-center p-4 bor">
+                                        <h3>FrontEnd Development</h3>
+                                        <div className="row mt-4">
+                                            <div className="col-sm-4">
+                                                <h5 className='html p-2'>HTML</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='css p-2'>CSS</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='boot p-2'>Bootstrap</h5>
+                                            </div>
+                                            <div className="col-sm-4 mt-3">
+                                                <h5 className='java p-2'>Javascript</h5>
+                                            </div>
+                                            <div className="col-sm-4 mt-3">
+                                                <h5 className='react p-2'>React JS</h5>
+                                            </div>
+                                            <div className="col-sm-4 mt-3">
+                                                <h5 className='next p-2'>Next JS</h5>
+                                            </div>
                                         </div>
                                     </div>
-
-                                    <div class="progress">
-                                        <span class="skill"><span>CSS</span> <i class="val">90%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar2"></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="progress">
-                                        <span class="skill"><span>JavaScript</span> <i class="val">75%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar3"></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="progress">
-                                        <span class="skill"><span>Express Js</span> <i class="val">80%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar4"></div>
-                                        </div>
-                                    </div>
-
-                                    <div class="progress">
-                                        <span class="skill"><span>Node JS</span> <i class="val">85%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar5"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress">
-                                        <span class="skill"><span>mongo db</span> <i class="val">80%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar6"></div>
-                                        </div>
-                                    </div>
-
                                 </div>
 
-                                <div class="col-lg-6">
+                                <div class="col-lg-4 col-md-6 text-center mt-4">
+                                    <div className="col-sm-12 text-center p-4 bor">
+                                        <h3>BackEnd Development</h3>
+                                        <div className="row mt-4">
+                                            <div className="col-sm-4">
+                                                <h5 className='react p-2'>Node JS</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='next p-2'>ExpressJS</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='boot p-2'>Mongodb</h5>
+                                            </div>
+                                            <div className="col-sm-4 mt-3">
+                                                <h5 className='java p-2'>SQL</h5>
+                                            </div>
 
-                                    <div class="progress">
-                                        <span class="skill"><span>c language</span> <i class="val">90%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar7"></div>
                                         </div>
                                     </div>
-                                    <div class="progress">
-                                        <span class="skill"><span>cpp language</span> <i class="val">75%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar8"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress">
-                                        <span class="skill"><span>dsa</span> <i class="val">70%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar9"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress">
-                                        <span class="skill"><span>React Js</span> <i class="val">80%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar10"></div>
-                                        </div>
-                                    </div>
-                                    <div class="progress">
-                                        <span class="skill"><span>mysql</span> <i class="val">85%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar11"></div>
-                                        </div>
-                                    </div>
+                                </div>
 
-                                    <div class="progress">
-                                        <span class="skill"><span>Photoshop</span> <i class="val">75%</i></span>
-                                        <div class="progress-bar-wrap">
-                                            <div class="progress-bar12"></div>
+                                <div class="col-lg-4 col-md-6 text-center mt-4">
+                                    <div className="col-sm-12 text-center p-4 bor">
+                                        <h3>Languages</h3>
+                                        <div className="row mt-4">
+                                            <div className="col-sm-4">
+                                                <h5 className='react p-2'>C-Lan</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='next p-2'>CPP</h5>
+                                            </div>
+                                            <div className="col-sm-4">
+                                                <h5 className='boot p-2'>DSA</h5>
+                                            </div>
+                                            <div className="col-sm-4 mt-3">
+                                                <h5 className='java p-2'>JAVA</h5>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-4 col-md-6 text-center mt-4">
+                                    <div className="col-sm-12 text-center p-4 bor">
+                                        <h3>Designing</h3>
+                                        <div className="row mt-4">
+                                            <div className="col-sm-4">
+                                                <h5 className='react p-1'>Photoshop</h5>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
