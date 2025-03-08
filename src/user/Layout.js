@@ -7,7 +7,7 @@ export default function Layout() {
     <>
         <BrowserRouter>
             <Routes>
-                <Route path='/Portfolio' element={<Main/>}>
+                <Route path='/Portfolio/' element={<Main/>}>
                 </Route>
             </Routes>
         </BrowserRouter>
