@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f6e23a4.css",
-    "main.js": "/static/js/main.c9fa99ca.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/my.jpg": "/static/media/my.eda42bd76625df71a792.jpg",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/CRUD.jpeg": "/static/media/CRUD.29a6de2913e0300ff194.jpeg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/hostel.jpg": "/static/media/hostel.28e84e0055404528f820.jpg",
-    "static/media/ecommerce.jpg": "/static/media/ecommerce.870922564b8b5ed038c5.jpg",
-    "index.html": "/index.html",
-    "main.6f6e23a4.css.map": "/static/css/main.6f6e23a4.css.map",
-    "main.c9fa99ca.js.map": "/static/js/main.c9fa99ca.js.map"
+    "main.css": "/Portfolio/static/css/main.065bdb72.css",
+    "main.js": "/Portfolio/static/js/main.cac9de57.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/my.jpg": "/Portfolio/static/media/my.eda42bd76625df71a792.jpg",
+    "static/media/fontawesome-webfont.eot": "/Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/CRUD.jpeg": "/Portfolio/static/media/CRUD.29a6de2913e0300ff194.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/hostel.jpg": "/Portfolio/static/media/hostel.28e84e0055404528f820.jpg",
+    "static/media/ecommerce.jpg": "/Portfolio/static/media/ecommerce.870922564b8b5ed038c5.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.065bdb72.css.map": "/Portfolio/static/css/main.065bdb72.css.map",
+    "main.cac9de57.js.map": "/Portfolio/static/js/main.cac9de57.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f6e23a4.css",
-    "static/js/main.c9fa99ca.js"
+    "static/css/main.065bdb72.css",
+    "static/js/main.cac9de57.js"
   ]
 }
