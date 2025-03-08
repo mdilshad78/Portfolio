@@ -1,0 +1,190 @@
+/*--------------------------------------------------------------
+# About Section
+--------------------------------------------------------------*/
+.about h2 {
+  font-size: 50px;
+}
+
+.content h2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.about .content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.about .content ul strong {
+  margin-right: 10px;
+}
+
+.about .content ul i {
+  font-size: 18px;
+  margin-top: 2px;
+  margin-right: 5px;
+  color: rgb(0, 191, 255);
+  line-height: 0;
+}
+
+.html {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(255, 0, 0));
+}
+.css {
+  background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 234, 255));
+}
+.boot {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(0, 255, 42));
+}
+.java {
+  background-image: linear-gradient(to right, rgb(25, 25, 25), rgb(255, 153, 0));
+}
+.react {
+  background-image: linear-gradient(to right, rgb(92, 92, 92), rgb(0, 38, 255));
+}
+.next {
+  background-image: linear-gradient(to right, rgb(92, 92, 92), rgb(200, 0, 255));
+}
+
+.bor{
+  border: solid 5px rgb(0, 213, 255);
+  border-radius: 5px;
+  background-color: lightgrey;
+}
+
+@media screen and (min-width: 2000px) {
+  #about {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #about {
+    margin-left: 210px;
+  }
+}
+
+/*--------------------------------------------------------------
+  # Stats Section
+  --------------------------------------------------------------*/
+.stats .stats-item {
+  padding: 30px;
+  width: 100%;
+}
+
+.stats h2 {
+  font-size: 50px;
+}
+
+.stats-item {
+  background-color: rgb(189, 187, 185);
+  border-radius: 10px;
+  border: solid 5px rgb(255, 213, 0);
+}
+
+
+
+/*--------------------------------------------------------------
+  # Skills Section
+  --------------------------------------------------------------*/
+.skills h2 {
+  font-size: 50px;
+}
+
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+  padding: 0;
+  margin: 0 0 6px 0;
+  text-transform: uppercase;
+  display: block;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+
+.skills .progress .skill .val {
+  float: right;
+  font-style: normal;
+}
+
+.progress-bar1 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+}
+
+.progress-bar2 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 90%;
+}
+
+.progress-bar3 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
+
+.progress-bar4 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar5 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 85%;
+}
+
+.progress-bar6 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar7 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 90%;
+}
+
+.progress-bar8 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
+
+.progress-bar9 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 70%;
+}
+
+.progress-bar10 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 80%;
+}
+
+.progress-bar11 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 85%;
+}
+
+.progress-bar12 {
+  height: 10px;
+  background: color-mix(in srgb, rgb(0, 191, 255), transparent 0%);
+  width: 75%;
+}
